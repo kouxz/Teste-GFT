@@ -1,0 +1,4 @@
+Crie um sistema de Notas escolares para gerenciar as notas dos alunos utilizando Java e POO, crie um pacote entities para as classes Aluno e Boletim, e um pacote main com o programa principal. A classe aluno deve conter nome e lista de notas.
+ A classe boletim deve ter um método para calcular as médias das notas.
+  O programa deve permitir adicionar notas a um aluno e exibir sua média.
+  O programa também deve exibir se o aluno foi "Aprovado" (média >= 7) ou "Reprovado". 
